@@ -1,5 +1,5 @@
 .idea/*
-node_modules/*
 dist/*
-public/*
+gulp/version.json
+node_modules/*
 package-lock.json*
